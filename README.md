@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Caio Delgado Pires 👋
 
-<!--
-**CaioDPires/CaioDPires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently a student at **Universidade de São Paulo**  
+💻 I code in **Python, C#, Golang, React**  
+🍳 Passionate about building useful apps—check out my ongoing [Recipe App](https://github.com/CaioDPires/Recipe_App)!
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Recipe_App](https://github.com/CaioDPires/Recipe_App):** My favorite project! A recipe management app where I experiment with new tech and features.
+
+## 📫 Find me elsewhere
+
+- [LinkedIn](https://www.linkedin.com/in/caio-delgado-pires)
+
+---
+
+Thanks for visiting my profile! Always open to connect and collaborate.
