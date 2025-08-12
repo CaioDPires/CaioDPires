@@ -6,7 +6,7 @@
 
 ## 🚀 Projects
 
-- **[Recipe_App](https://github.com/CaioDPires/Recipe_App):** My favorite project! A recipe management app where I experiment with new tech and features.
+- **[Recipe_App](https://github.com/CaioDPires/Recipe_App):** My favorite and ongoing project! A recipe management app where I experiment with Docker compose, GoLang and React Native.
 
 ## 📫 Find me elsewhere
 
