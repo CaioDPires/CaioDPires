@@ -2,6 +2,7 @@
 <p align="left">
   🎓 Information Systems undergraduate from Brazil<br>
   💻 Passionate about software development & technology<br>
+  🏦 Software Engineer at <a href="https://www.nubank.com.br" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nubank/nubank-original.svg" height="20" alt="Nubank" /> Nubank</a><br>
 </p>
 
 ---
@@ -20,7 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="Java" />
   <img width="12" />
-  <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" height="30" alt="Clojure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" height="30" alt="Clojure"/>
 </div>
 
 
